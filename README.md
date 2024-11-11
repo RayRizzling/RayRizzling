@@ -41,5 +41,5 @@ I am proficient with **thousands of tools, libraries, and frameworks** and adapt
 
 ### 📫 **Connect with Me**
 For professional inquiries or collaborations, feel free to reach out via:
-- 🌐 [Website](https://www.0x41-labs.com)
-- 📧 [your.email@example.com](mailto:kontakt@0x41-labs.com)
+- 🌐 [0x41 Labs](https://www.0x41-labs.com)
+- 📧 [kontakt@0x41-labs.com](mailto:kontakt@0x41-labs.com)
