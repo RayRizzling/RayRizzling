@@ -6,7 +6,7 @@ I'm a **Cypherpunk** and elite developer with deep expertise across numerous tec
 
 ### 🚀 **About Me**
 - 🖥️ **Veteran Developer & Security Expert**  
-  My work fuses **software engineering** with **IT security** at the highest level, covering **JavaScript**, **Python**, **Bash**, and beyond. From **penetration testing** and **red teaming** to **forensic analysis** and high-stakes development, my approach is both innovative and technically precise.
+  My work fuses **software engineering** with **IT security** at the highest level, covering **JavaScript**, **Python**, **Bash**, **Rust**, **C**, **C++** and beyond. From **penetration testing** and **red teaming** to **forensic analysis** and high-stakes development, my approach is both innovative and technically precise.
 
 - 💼 **Member of Exclusive Teams**  
   Affiliated with renowned organizations like [0x41-labs.com](https://0x41-labs.com) and [Autistici](https://www.autistici.org), I'm also discreetly associated with **Fancy Bear** ...maybe 🤫.
